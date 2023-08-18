@@ -1,0 +1,14 @@
+[project]
+name = "bilichatbot"
+version = "1.0.0"
+description = "A bilibili chatbot based on bilibili-api-python"
+authors = [
+    {name = "z0z0r4",email = "z0z0r4@outlook.com"},
+]
+dependencies = [
+    "bilibili-api-python~=15.5.4",
+]
+requires-python = ">=3.8"
+readme = "README.md"
+license = {text = "MIT"}
+
